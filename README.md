@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->Promo
 ---> Next spep
 chapter 3...
+pause
+stop
+9
+8
+7
+6
+repeat
