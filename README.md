@@ -23,3 +23,6 @@ stop
 7
 6
 repeat
+retweet
+joke
+game
