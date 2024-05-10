@@ -38,3 +38,4 @@ Working
 sunny tuesday 
 Lucky draw
 Victory Day
+Friday, rest
