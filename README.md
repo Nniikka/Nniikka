@@ -40,4 +40,4 @@ Lucky draw
 Victory Day
 Friday, rest
 Nicklas
-
+Happy sunday:/
