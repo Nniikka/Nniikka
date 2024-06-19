@@ -71,3 +71,4 @@ progress
 start#2
 Nostra shit drop
 L0 chacker
+100.57 ZRO
