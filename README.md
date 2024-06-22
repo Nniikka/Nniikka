@@ -74,3 +74,4 @@ L0 chacker
 100.57 ZRO
 zro claim
 console scam -500$
+validation results
