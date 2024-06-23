@@ -75,3 +75,4 @@ L0 chacker
 zro claim
 console scam -500$
 validation results
+promise
