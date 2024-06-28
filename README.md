@@ -80,3 +80,4 @@ crash stop
 tap new era
 Blast TGE
 Bee 
+pup_ok
