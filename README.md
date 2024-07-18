@@ -99,3 +99,4 @@ PsYDuck
 trump
 RB 2.0
 pilot Y
+ETHERFI drop
