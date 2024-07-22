@@ -103,3 +103,4 @@ ETHERFI drop
 PIXFI
 A8 or A4
 stake 1060 pixfi
+Legendary Lock-in
