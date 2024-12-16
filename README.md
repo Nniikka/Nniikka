@@ -123,3 +123,4 @@ CHECK
 bounty
 SQRv
 support
+squad
