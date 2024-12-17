@@ -124,3 +124,4 @@ bounty
 SQRv
 support
 squad
+shotgun
