@@ -125,3 +125,4 @@ SQRv
 support
 squad
 shotgun
+rugby
