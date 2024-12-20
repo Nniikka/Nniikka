@@ -127,3 +127,4 @@ squad
 shotgun
 rugby
 zkj
+squid
