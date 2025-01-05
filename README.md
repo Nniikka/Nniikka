@@ -143,3 +143,4 @@ ace
 bolt
 clear
 zora
+elemental
