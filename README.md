@@ -144,3 +144,4 @@ bolt
 clear
 zora
 elemental
+pvp
