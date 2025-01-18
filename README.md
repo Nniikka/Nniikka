@@ -156,3 +156,4 @@ flock
 earn
 fairy
 OKB
+trump SOL
