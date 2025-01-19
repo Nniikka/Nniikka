@@ -157,3 +157,4 @@ earn
 fairy
 OKB
 trump SOL
+UFO
