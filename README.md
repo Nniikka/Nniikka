@@ -158,3 +158,4 @@ fairy
 OKB
 trump SOL
 UFO
+scale
