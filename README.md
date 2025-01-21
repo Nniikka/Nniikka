@@ -159,3 +159,4 @@ OKB
 trump SOL
 UFO
 scale
+cotton
