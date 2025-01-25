@@ -162,3 +162,4 @@ scale
 cotton
 tesla
 silk
+socket
