@@ -172,3 +172,4 @@ Mushroom
 Exclusive
 nuclear
 limit
+seria A
