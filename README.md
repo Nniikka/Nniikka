@@ -182,3 +182,4 @@ Kuroro
 fate
 gift
 potato
+score
