@@ -184,3 +184,4 @@ gift
 potato
 score
 uni
+WIFE
