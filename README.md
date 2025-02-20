@@ -188,3 +188,4 @@ WIFE
 HAT
 edit
 deal
+card
