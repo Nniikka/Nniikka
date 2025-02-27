@@ -195,3 +195,4 @@ renta
 tree
 rose
 jam
+smoke
