@@ -198,3 +198,4 @@ jam
 smoke
 beam
 mouse
+avail
