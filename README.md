@@ -208,3 +208,5 @@ loptop
 contract
 kitty
 ant
+USD Coin
+USDC
