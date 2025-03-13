@@ -210,3 +210,4 @@ kitty
 ant
 USD Coin
 USDC
+epic
