@@ -211,3 +211,4 @@ ant
 USD Coin
 USDC
 epic
+UFO
