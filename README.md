@@ -212,3 +212,4 @@ USD Coin
 USDC
 epic
 UFO
+candy
