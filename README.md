@@ -222,3 +222,4 @@ vision
 cold
 CZ
 orca
+power
