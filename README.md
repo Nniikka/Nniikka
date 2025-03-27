@@ -224,3 +224,4 @@ CZ
 orca
 power
 opera
+icon
