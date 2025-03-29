@@ -226,3 +226,4 @@ power
 opera
 icon
 angry
+monkie
