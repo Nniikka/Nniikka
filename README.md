@@ -227,3 +227,4 @@ opera
 icon
 angry
 monkie
+jeton
