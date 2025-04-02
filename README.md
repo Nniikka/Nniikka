@@ -230,3 +230,4 @@ monkie
 jeton
 fault
 admin
+ghosty
