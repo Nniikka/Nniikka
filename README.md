@@ -231,3 +231,4 @@ jeton
 fault
 admin
 ghosty
+wizard
