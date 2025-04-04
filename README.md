@@ -232,3 +232,4 @@ fault
 admin
 ghosty
 wizard
+gunner
