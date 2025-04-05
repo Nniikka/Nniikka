@@ -233,3 +233,4 @@ admin
 ghosty
 wizard
 gunner
+yellow
